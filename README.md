@@ -1,2 +1,2 @@
 # Alg2
-Algoritmos 2 projects
+Trabalho final da disciplina de laboratorio de programacao desevolvido em Python
