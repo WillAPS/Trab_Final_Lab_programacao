@@ -1,0 +1,3 @@
+from mainTeste import *
+
+atualizaCadastroUsuario()
